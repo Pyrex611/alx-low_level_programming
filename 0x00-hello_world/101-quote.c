@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
- * main - prints out 0 as success to stdout
- *
+ * Description: main - returns 0 (succes) to stdout
+ * Return: always 0
  */
 int main(void)
 {
-	printf("and that piece of art is useful\" - Dora Korpar, 2015-10-19");
+	printf("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n");
 
 	return (0);
 }
