@@ -2,8 +2,8 @@
 
 
 /**
- * main - Entry point of my code
- *
+ *Description: main -Entry ppoint of the code
+
  * Return - Always 0 for success
  */
 
