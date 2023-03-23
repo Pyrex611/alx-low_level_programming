@@ -1,9 +1,7 @@
 #include "main.h"
 
-
 /**
- *Description: main -Entry ppoint of the code
-
+ *main - Entry ppoint of the code
  * Return - Always 0 for success
  */
 
