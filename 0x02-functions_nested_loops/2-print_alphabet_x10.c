@@ -6,11 +6,12 @@
  */
 
 void print_alphabet_x10(void)
-
 {
 
 	char myAlph;
+
 	int i = 0;
+
 	while (i < 10)
 	{
 	for (myAlph = 'a';  myAlph <= 'z'; myAlph++)
