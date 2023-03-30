@@ -15,6 +15,14 @@ int main(void)
 		putchar(letter_count);
 		letter_count++;
 	}
+
+	letter_count = 65;
+	while (letter_count < 91)
+	{
+		putchar(letter_count);
+		letter_count++;
+	}
+
 	putchar('\n');
 	return (0);
 }
